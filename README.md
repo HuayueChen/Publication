@@ -35,4 +35,6 @@
 
 18. Yangguang Ke, Xinliang Gao, Quanming Lu, Xueyi Wang, Rui Chen, **Huayue Chen**, & Shui Wang (2022). **Deformation of electron distributions due to Landau trapping by the whistler-mode wave**. Geophysical Research Letters, 49, e2021GL096428. https://doi.org/10.1029/2021GL096428
 
-19. **Huayue Chen**, Quanming Lu, Xueyi Wang, Kai Fan, Rui Chen, & Xinliang Gao (2022). **One-dimensional gcPIC-δf simulation of hooked chorus waves in the Earth’s inner magnetosphere**. Geophysical Research Letters.
+19. **Huayue Chen**, Quanming Lu, Xueyi Wang, Kai Fan, Rui Chen, & Xinliang Gao (2022). **One-dimensional gcPIC-δf simulation of hooked chorus waves in the Earth’s inner magnetosphere**. Geophysical Research Letters, 49, e2022GL097989. https://doi.org/10.1029/2022GL097989
+
+20. Rui Chen, Xinliang Gao, Quanming Lu, Bruce T. Tsurutani, **Huayue Chen**, Shui Wang (2022). **First report of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters.
