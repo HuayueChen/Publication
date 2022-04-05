@@ -38,3 +38,5 @@
 19. **Huayue Chen**, Quanming Lu, Xueyi Wang, Kai Fan, Rui Chen, & Xinliang Gao (2022). **One-dimensional gcPIC-δf simulation of hooked chorus waves in the Earth’s inner magnetosphere**. Geophysical Research Letters, 49, e2022GL097989. https://doi.org/10.1029/2022GL097989
 
 20. Rui Chen, Xinliang Gao, Quanming Lu, Bruce T. Tsurutani, **Huayue Chen**, Shui Wang (2022). **First report of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters.
+
+21. **Huayue Chen**, Xinliang Gao, Quanming Lu, Kai Fan, Yangguang Ke, Xueyi Wang, & Shui Wang (2022). **Gap formation around 0.5Ωe in the whistler-mode waves due to the plateau-like shape in the parallel electron distribution: 2D PIC simulations**. Journal of Geophysical Research: Space Physics. Accepted.
