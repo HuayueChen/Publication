@@ -11,7 +11,7 @@
 
 6. Zhi Li, QuanMing Lu, RongSheng Wang, XinLiang Gao, & **HuaYue Chen** (2019). **In situ evidence of resonant interactions between energetic electrons and whistler waves in magnetopause reconnection**. Earth and Planetary Physics, 3 (6), 467-473, http://doi:10.26464/epp2019048.  
 
-7. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Shui Wang (2019). **Analyzing EMIC Waves in the Inner Magnetosphere Using Long‐Term Van Allen Probes Observations**. Journal of Geophysical Research: Space Physics, 124 (9), 7204-7412, https://doi.org/10.1029/2019JA026965.  
+7. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Shui Wang (2019). **Analyzing EMIC waves in the inner magnetosphere using long‐term Van Allen Probes observations**. Journal of Geophysical Research: Space Physics, 124 (9), 7204-7412, https://doi.org/10.1029/2019JA026965.  
 
 8. Jiansheng Yao, Quanming Lu, Xinliang Gao, Jian Zheng, **Huayue Chen**, Yi Li, & Shui Wang (2020). **Generation of harmonic Alfvén waves and its implications to heavy ion heating in the solar corona: hybrid simulations**. Physics of Plasmas, 27, 012901, https://doi.org/10.1063/1.5126169.    
 
