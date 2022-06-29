@@ -39,6 +39,8 @@
 
 20. **Huayue Chen**, Xinliang Gao, Quanming Lu, Kai Fan, Yangguang Ke, Xueyi Wang, & Shui Wang (2022). **Gap formation around 0.5Ωe in the whistler-mode waves due to the plateau-like shape in the parallel electron distribution: 2D PIC simulations**. Journal of Geophysical Research: Space Physics, 127, e2021JA030119. https://doi.org/10.1029/2021JA030119.
 
+21. Xinliang Gao, Rui Chen, Quanming Lu, Lunjin Chen, **Huayue Chen**, & Xueyi Wang (2022). **Observational evidence for the origin of repetitive chorus emissions**. Geophysical Research Letters, 49, e2022GL099000. https://doi.org/10.1029/2022GL099000.
+
 
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA
