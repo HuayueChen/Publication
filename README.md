@@ -41,6 +41,8 @@
 
 21. Xinliang Gao, Rui Chen, Quanming Lu, Lunjin Chen, **Huayue Chen**, & Xueyi Wang (2022). **Observational evidence for the origin of repetitive chorus emissions**. Geophysical Research Letters, 49, e2022GL099000. https://doi.org/10.1029/2022GL099000.
 
+22. Rui Chen, Bruce Tsurutani, Xinliang Gao, **Huayue Chen**, Gurbax Lakhiana, & Rajkumar Hajra (2022). **The Structure and Microstructure of Rising-tone Chorus with Frequencies Crossing at f~0.5 fce**. Journal of Geophysical Research: Space Physics, accept.
+
 
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
