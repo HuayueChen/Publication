@@ -45,6 +45,8 @@
 
 23. Rui Chen, Bruce Tsurutani, Xinliang Gao, **Huayue Chen**, Gurbax Lakhiana, & Rajkumar Hajra (2022). **The Structure and Microstructure of Rising-tone Chorus with Frequencies Crossing at f~0.5 fce**. Journal of Geophysical Research: Space Physics, 127, e2022JA030438. https://doi.org/10.1029/2022JA030438.
 
+24. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, **Huayue Chen**, & Shui Wang (2022). **First Observation of Electron Cyclotron Harmonic Waves inside Mirror Mode Structures in the Earth's Outer Magnetosphere**. Geophysical Research Letters, accepted.
+
 
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
