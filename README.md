@@ -47,7 +47,7 @@
 
 24. Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & **Huayue Chen** (2022). **Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere**. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.
 
-25. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, **Huayue Chen**, & Shui Wang (2022). **First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters, accepted.
+25. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, **Huayue Chen**, & Shui Wang (2022). **First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592.
 
 
 # Public Platform
