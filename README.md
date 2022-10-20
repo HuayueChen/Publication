@@ -49,6 +49,7 @@
 
 25. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, **Huayue Chen**, & Shui Wang (2022). **First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592.
 
+26. Jiuqi Ma, Xinliang Gao, **Huayue Chen**, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). **The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study**. Journal of Geophysical Research: Space Physics, accepted. 
 
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
