@@ -51,6 +51,9 @@
 
 26. Jiuqi Ma, Xinliang Gao, **Huayue Chen**, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). **The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study**. Journal of Geophysical Research: Space Physics, 127, e2022JA030502. https://doi.org/10.1029/2022JA030502. 
 
+27. Shangchun Teng, **Huayue Chen**, Qiang Zhang, & Desheng Han (2023). **Observations of Time-Domain Structures in the plasmaspheric
+plume by Van Allen Probes**. Magnetochemisty, 9, 22. https://doi.org/10.3390/magnetochemistry9010022. 
+
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
 https://mp.weixin.qq.com/s/Nzyu3SsHXKc0BoWOwgp1wA     
