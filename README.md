@@ -58,6 +58,8 @@ plume by Van Allen Probes**. Magnetochemisty, 9, 22. https://doi.org/10.3390/mag
 
 29. **Huayue Chen**, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). **Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations**. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748.
 
+30. **Huayue Chen1**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). **Simulation of Downward Frequency Chirping in the Rising Tone Chorus Element**. Geophysical Research Letters, accepted.
+
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
 https://mp.weixin.qq.com/s/Nzyu3SsHXKc0BoWOwgp1wA     
