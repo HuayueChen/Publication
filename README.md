@@ -55,7 +55,9 @@
 
 28. **Huayue Chen**, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). **Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations**. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748.
 
-29. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). **Simulation of Downward Frequency Chirping in the Rising Tone Chorus Element**. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
+29. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). **Simulation of downward frequency chirping in the rising tone chorus element**. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
+
+30. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere**. Journal of Geophysical Research: Space Physics, accepted.
 
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
