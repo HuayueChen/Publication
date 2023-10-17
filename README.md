@@ -59,6 +59,8 @@
 
 30. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere**. Journal of Geophysical Research: Space Physics, accepted.
 
+31. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). **Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation**. Journal of Geophysical Research: Space Physics, accepted.
+
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
 https://mp.weixin.qq.com/s/Nzyu3SsHXKc0BoWOwgp1wA     
