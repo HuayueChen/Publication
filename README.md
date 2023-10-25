@@ -61,6 +61,10 @@
 
 31. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). **Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation**. Journal of Geophysical Research: Space Physics, accepted.
 
+32. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Bruce Tsurutani, Yu Lin, & Zhiyang Xia (2023). **Evolution of chorus subpackets in the Earth’s magnetosphere**. Geophysical Research Letters, accepted.
+
+33. Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere**. Geophysical Research Letters, accepted.
+
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
 https://mp.weixin.qq.com/s/Nzyu3SsHXKc0BoWOwgp1wA     
