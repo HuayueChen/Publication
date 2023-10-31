@@ -57,7 +57,7 @@
 
 29. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). **Simulation of downward frequency chirping in the rising tone chorus element**. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
 
-30. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere**. Journal of Geophysical Research: Space Physics, accepted.
+30. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere**. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.
 
 31. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). **Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation**. Journal of Geophysical Research: Space Physics, 128, e2023JA031566. https://doi.org/10.1029/2023JA031566.
 
