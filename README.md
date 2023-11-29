@@ -63,7 +63,7 @@
 
 32. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Bruce Tsurutani, Yu Lin, & Zhiyang Xia (2023). **Evolution of chorus subpackets in the Earth’s magnetosphere**. Geophysical Research Letters, 50, e2023GL105938. https://doi.org/10.1029/2023GL105938.
 
-33. Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere**. Geophysical Research Letters, http://doi.org/10.1029/2023GL104431.
+33. Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere**. Geophysical Research Letters, 50, e2023GL104431. http://doi.org/10.1029/2023GL104431.
 
 # Public Platform
 https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA     
