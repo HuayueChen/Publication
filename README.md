@@ -65,7 +65,7 @@
 
 33. Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere**. Geophysical Research Letters, 50, e2023GL104431. http://doi.org/10.1029/2023GL104431.
 
-34. Xueyi Wang, **Huayue Chen**, Yoshiharu Omura, Yi-Kai Hsieh, Lunjin Chen, Yu Lin, Xiao-Jia Zhang, & Zhiyang Xia (2024). **Resonant electron signatures in the formation of chorus wave subpackets**. Geophysical Research Letters, accepted.
+34. Xueyi Wang, **Huayue Chen**, Yoshiharu Omura, Yi-Kai Hsieh, Lunjin Chen, Yu Lin, Xiao-Jia Zhang, & Zhiyang Xia (2024). **Resonant electron signatures in the formation of chorus wave subpackets**. Geophysical Research Letters, 51, e2023GL108000. http://doi.org/10.1029/2023GL108000.
 
 # Public Platform
 1. https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA      
