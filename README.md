@@ -69,6 +69,8 @@
 
 35. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Xiao-Jia Zhang, Yoshiharu Omura, Rui Chen, Yi-Kai Hsieh, Yu Lin, & Zhiyang Xia (2024). **Nonlinear electron trapping through cyclotron resonance in the formation of chorus subpackets**. Geophysical Research Letters, 51, e2024GL109481. http://doi.org/10.1029/2024GL109481.
 
+36. **Huayue Chen**, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). **Electron Dynamics Associated with Advection and Diffusion in Self-Consistent Wave-Particle Interactions with Oblique Chorus Waves**. Geophysical Research Letters, accepted.
+
 # Public Platform
 1. https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA      
 2. https://mp.weixin.qq.com/s/Nzyu3SsHXKc0BoWOwgp1wA   
