@@ -2,19 +2,7 @@
 
 
 
-24. Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & **Huayue Chen** (2022). **Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere**. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.
 
-25. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, **Huayue Chen**, & Shui Wang (2022). **First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592.
-
-26. Jiuqi Ma, Xinliang Gao, **Huayue Chen**, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). **The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study**. Journal of Geophysical Research: Space Physics, 127, e2022JA030502. https://doi.org/10.1029/2022JA030502. 
-
-27. Yangguang Ke, Quanming Lu, Xinliang Gao, **Huayue Chen**, & Rui Chen (2022). **Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields**. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.
-
-28. **Huayue Chen**, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). **Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations**. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748.
-
-29. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). **Simulation of downward frequency chirping in the rising tone chorus element**. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
-
-30. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere**. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.
 
 31. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). **Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation**. Journal of Geophysical Research: Space Physics, 128, e2023JA031566. https://doi.org/10.1029/2023JA031566.
 
@@ -28,7 +16,42 @@
 
 36. **Huayue Chen**, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). **Electron dynamics associated with advection and diffusion in self-consistent wave-particle interactions with oblique chorus waves**. Geophysical Research Letters, 51, e2024GL110362. https://doi.org/10.1029/2024GL110362.
 
+37. 24. Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & **Huayue Chen** (2022). **Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere**. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.
+
+25. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, **Huayue Chen**, & Shui Wang (2022). **First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592.
+
+26. Jiuqi Ma, Xinliang Gao, **Huayue Chen**, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). **The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study**. Journal of Geophysical Research: Space Physics, 127, e2022JA030502. https://doi.org/10.1029/2022JA030502. 
+
+27. Yangguang Ke, Quanming Lu, Xinliang Gao, **Huayue Chen**, & Rui Chen (2022). **Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields**. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.
+
+28. **Huayue Chen**, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). **Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations**. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748.
+
+29. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). **Simulation of downward frequency chirping in the rising tone chorus element**. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
+
+30. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere**. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.
+
 <ol>
+     <li value="30"> Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere</b>. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.
+<br> 
+<br>
+    <li value="29"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). <b>Simulation of downward frequency chirping in the rising tone chorus element</b>. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
+<br> 
+<br>
+    <li value="28"> <b>Huayue Chen</b>, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). <b>Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations<b>. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748. 
+<br> 
+<br>
+    <li value="27"> Yangguang Ke, Quanming Lu, Xinliang Gao, <b>Huayue Chen</b>, & Rui Chen (2022). <b>Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields</b>. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.
+<br> 
+<br>
+    <li value="26"> Jiuqi Ma, Xinliang Gao, <b>Huayue Chen</b>, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). <b>The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030502. https://doi.org/10.1029/2022JA030502. 
+<br> 
+<br>
+    <li value="25"> Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, <b>Huayue Chen</b>, & Shui Wang (2022). <b>First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere</b>. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592. 
+<br> 
+<br>
+    <li value="24"> Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & <b>Huayue Chen</b> (2022). <b>Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.
+<br> 
+<br>
     <li value="23"> Rui Chen, Bruce Tsurutani, Xinliang Gao, <b>Huayue Chen</b>, Gurbax Lakhiana, & Rajkumar Hajra (2022). <b>The structure and microstructure of rising-tone chorus with frequencies crossing at f~0.5 fce</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030438. https://doi.org/10.1029/2022JA030438. 
 <br> 
 <br> 
