@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        p {
-            margin-bottom: 20px;  /* 在每段文字下方添加20px的空隙 */
-        }
-    </style>
-    <title>文档标题</title>
-</head>
 # Publication
 
-2. **Huayue Chen**, Xinliang Gao, Quanming Lu, Jicheng Sun, & Shui Wang (2018). **Nonlinear evolution of counter-propagating whistler mode waves excited by anisotropic electrons within the equatorial source region: 1-D PIC simulations**. Journal of Geophysical Research: Space Physics, 123 (2), 1200-1207, https://doi.org/10.1002/2017JA024850.
-
-3. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Shui Wang (2018). **In situ observations of harmonic Alfvén waves and associated heavy ion heating**. The Astrophysical Journal, 859 (2), https://doi.org/10.3847/1538-4357/aabee2.  
-
-4. A. A. Abid, Quanming Lu, **Huayue Chen**, Yangguang Ke, S. Ali, & Shui Wang (2019). **Effects of electron trapping on nonlinear electron-acoustic waves excited by an electron beam via particle-in-cell simulations**. Plasma Science and Technology, 21 (5), https://doi.org/10.1088/2058-6272/ab033f.  
-
-5. A. A. Abid, Quanming Lu, M. N. S. Qureshi, XinLiang Gao, **Huayue Chen**, K. H. Shah, & Shui Wang (2019). **1-D particle-in-cell simulations of electron acoustic solitary structures in an electron beam-plasma**. AIP Advances, 9, 025029, https://doi.org/10.1063/1.5080757. 
 
 6. Zhi Li, Quanming Lu, Rongsheng Wang, Xinliang Gao, & **Huayue Chen** (2019). **In situ evidence of resonant interactions between energetic electrons and whistler waves in magnetopause reconnection**. Earth and Planetary Physics, 3 (6), 467-473, http://doi:10.26464/epp2019048.
 
@@ -85,9 +66,11 @@
 
 <ol>
   <li value="5"> A. A. Abid, Quanming Lu, M. N. S. Qureshi, XinLiang Gao, <b>Huayue Chen</b>, K. H. Shah, & Shui Wang (2019). <b>1-D particle-in-cell simulations of electron acoustic solitary structures in an electron beam-plasma</b>. AIP Advances, 9, 025029, https://doi.org/10.1063/1.5080757. 
-<br>   
+<br> 
+<br> 
   <li value="4"> A. A. Abid, Quanming Lu, <b>Huayue Chen</b>, Yangguang Ke, S. Ali, & Shui Wang (2019). <b>Effects of electron trapping on nonlinear electron-acoustic waves excited by an electron beam via particle-in-cell simulations</b>. Plasma Science and Technology, 21 (5), https://doi.org/10.1088/2058-6272/ab033f.  
 <br>
+<br> 
   <li value="3"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, & Shui Wang (2018). <b>In situ observations of harmonic Alfvén waves and associated heavy ion heating</b>. The Astrophysical Journal, 859 (2), https://doi.org/10.3847/1538-4357/aabee2.
 <br>   
 <br>
