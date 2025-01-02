@@ -79,7 +79,7 @@
   <li value="3">The Simpsons
    
   <li value="2"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Jicheng Sun, & Shui Wang (2018). <b>Nonlinear evolution of counter-propagating whistler mode waves excited by anisotropic electrons within the equatorial source region: 1-D PIC simulations</b>. Journal of Geophysical Research: Space Physics, 123 (2), 1200-1207, https://doi.org/10.1002/2017JA024850.
- </li>
+<ul>
   <li value="1"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). <b>Lower band cascade of whistler waves excited by anisotropic hot electrons: one-dimensional PIC simulations</b>. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513.
 </ol>
 
