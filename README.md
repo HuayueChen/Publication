@@ -25,7 +25,7 @@
     <li value="29"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). <b>Simulation of downward frequency chirping in the rising tone chorus element</b>. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
 <br> 
 <br>
-    <li value="28"> <b>Huayue Chen</b>, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). <b>Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations<b>. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748. 
+    <li value="28"> <b>Huayue Chen</b>, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). <b>Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations</b>. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748. 
 <br> 
 <br>
     <li value="27"> Yangguang Ke, Quanming Lu, Xinliang Gao, <b>Huayue Chen</b>, & Rui Chen (2022). <b>Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields</b>. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.
