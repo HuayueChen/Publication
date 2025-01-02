@@ -1,36 +1,24 @@
 # Publication
 
-
-
-
-
-31. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). **Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation**. Journal of Geophysical Research: Space Physics, 128, e2023JA031566. https://doi.org/10.1029/2023JA031566.
-
-32. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Bruce Tsurutani, Yu Lin, & Zhiyang Xia (2023). **Evolution of chorus subpackets in the Earth’s magnetosphere**. Geophysical Research Letters, 50, e2023GL105938. https://doi.org/10.1029/2023GL105938.
-
-33. Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere**. Geophysical Research Letters, 50, e2023GL104431. http://doi.org/10.1029/2023GL104431.
-
-34. Xueyi Wang, **Huayue Chen**, Yoshiharu Omura, Yi-Kai Hsieh, Lunjin Chen, Yu Lin, Xiao-Jia Zhang, & Zhiyang Xia (2024). **Resonant electron signatures in the formation of chorus wave subpackets**. Geophysical Research Letters, 51, e2023GL108000. http://doi.org/10.1029/2023GL108000.
-
-35. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Xiao-Jia Zhang, Yoshiharu Omura, Rui Chen, Yi-Kai Hsieh, Yu Lin, & Zhiyang Xia (2024). **Nonlinear electron trapping through cyclotron resonance in the formation of chorus subpackets**. Geophysical Research Letters, 51, e2024GL109481. http://doi.org/10.1029/2024GL109481.
-
-36. **Huayue Chen**, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). **Electron dynamics associated with advection and diffusion in self-consistent wave-particle interactions with oblique chorus waves**. Geophysical Research Letters, 51, e2024GL110362. https://doi.org/10.1029/2024GL110362.
-
-37. 24. Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & **Huayue Chen** (2022). **Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere**. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.
-
-25. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, **Huayue Chen**, & Shui Wang (2022). **First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere**. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592.
-
-26. Jiuqi Ma, Xinliang Gao, **Huayue Chen**, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). **The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study**. Journal of Geophysical Research: Space Physics, 127, e2022JA030502. https://doi.org/10.1029/2022JA030502. 
-
-27. Yangguang Ke, Quanming Lu, Xinliang Gao, **Huayue Chen**, & Rui Chen (2022). **Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields**. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.
-
-28. **Huayue Chen**, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). **Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations**. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748.
-
-29. **Huayue Chen**, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). **Simulation of downward frequency chirping in the rising tone chorus element**. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
-
-30. Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, **Huayue Chen**, & Jiuqi Ma (2023). **Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere**. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.
-
 <ol>
+     <li value="36"> <b>Huayue Chen</b>, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). <b>Electron dynamics associated with advection and diffusion in self-consistent wave-particle interactions with oblique chorus waves</b>. Geophysical Research Letters, 51, e2024GL110362. https://doi.org/10.1029/2024GL110362.
+<br> 
+<br>
+     <li value="35"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Xiao-Jia Zhang, Yoshiharu Omura, Rui Chen, Yi-Kai Hsieh, Yu Lin, & Zhiyang Xia (2024). <b>Nonlinear electron trapping through cyclotron resonance in the formation of chorus subpackets</b>. Geophysical Research Letters, 51, e2024GL109481. http://doi.org/10.1029/2024GL109481.
+<br> 
+<br>
+     <li value="34"> Xueyi Wang, <b>Huayue Chen</b>, Yoshiharu Omura, Yi-Kai Hsieh, Lunjin Chen, Yu Lin, Xiao-Jia Zhang, & Zhiyang Xia (2024). <b>Resonant electron signatures in the formation of chorus wave subpackets</b>. Geophysical Research Letters, 51, e2023GL108000. http://doi.org/10.1029/2023GL108000.
+<br> 
+<br>
+     <li value="33"> Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere</b>. Geophysical Research Letters, 50, e2023GL104431. http://doi.org/10.1029/2023GL104431.
+<br> 
+<br>
+     <li value="32"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Bruce Tsurutani, Yu Lin, & Zhiyang Xia (2023). <b>Evolution of chorus subpackets in the Earth’s magnetosphere</b>. Geophysical Research Letters, 50, e2023GL105938. https://doi.org/10.1029/2023GL105938.
+<br> 
+<br>
+     <li value="31"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). <b>Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation</b>. Journal of Geophysical Research: Space Physics, 128, e2023JA031566. https://doi.org/10.1029/2023JA031566.
+<br> 
+<br>
      <li value="30"> Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere</b>. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.
 <br> 
 <br>
