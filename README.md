@@ -1,14 +1,4 @@
-<style>
-  p {
-    line-height: 1.8; /* 设置行高，值越大，行间距越大 */
-  }
-</style>
 # Publication
-<style>
-  li {
-    margin-bottom: 20px;  /* 设置每个列表项之间的间距 */
-  }
-</style>
 
 2. **Huayue Chen**, Xinliang Gao, Quanming Lu, Jicheng Sun, & Shui Wang (2018). **Nonlinear evolution of counter-propagating whistler mode waves excited by anisotropic electrons within the equatorial source region: 1-D PIC simulations**. Journal of Geophysical Research: Space Physics, 123 (2), 1200-1207, https://doi.org/10.1002/2017JA024850.
 
@@ -82,15 +72,19 @@
 
 
 <ol>
-  <li value="5">Friends
-   
-  <li value="4">24
-   
-  <li value="3">The Simpsons
-   
+  <li value="5"> A. A. Abid, Quanming Lu, M. N. S. Qureshi, XinLiang Gao, <b>Huayue Chen</b>, K. H. Shah, & Shui Wang (2019). <b>1-D particle-in-cell simulations of electron acoustic solitary structures in an electron beam-plasma</b>. AIP Advances, 9, 025029, https://doi.org/10.1063/1.5080757. 
+<br>   
+  <li value="4"> A. A. Abid, Quanming Lu, <b>Huayue Chen</b>, Yangguang Ke, S. Ali, & Shui Wang (2019). <b>Effects of electron trapping on nonlinear electron-acoustic waves excited by an electron beam via particle-in-cell simulations</b>. Plasma Science and Technology, 21 (5), https://doi.org/10.1088/2058-6272/ab033f.  
+<br>
+  <li value="3"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, & Shui Wang (2018). <b>In situ observations of harmonic Alfvén waves and associated heavy ion heating</b>. The Astrophysical Journal, 859 (2), https://doi.org/10.3847/1538-4357/aabee2.
+<br>   
   <li value="2"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Jicheng Sun, & Shui Wang (2018). <b>Nonlinear evolution of counter-propagating whistler mode waves excited by anisotropic electrons within the equatorial source region: 1-D PIC simulations</b>. Journal of Geophysical Research: Space Physics, 123 (2), 1200-1207, https://doi.org/10.1002/2017JA024850.
+<br>
   <li value="1"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). <b>Lower band cascade of whistler waves excited by anisotropic hot electrons: one-dimensional PIC simulations</b>. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513.
 </ol>
+
+
+
 
 # Public Platform
 1. https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA      
