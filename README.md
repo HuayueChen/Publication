@@ -1,8 +1,8 @@
 # Publication
 <ol reversed>
-1. **Huayue Chen**, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). **Lower band cascade of whistler waves excited by anisotropic hot electrons: one-dimensional PIC simulations**. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513. 
+<li> **Huayue Chen**, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). **Lower band cascade of whistler waves excited by anisotropic hot electrons: one-dimensional PIC simulations**. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513. </li>
 
-2. **Huayue Chen**, Xinliang Gao, Quanming Lu, Jicheng Sun, & Shui Wang (2018). **Nonlinear evolution of counter-propagating whistler mode waves excited by anisotropic electrons within the equatorial source region: 1-D PIC simulations**. Journal of Geophysical Research: Space Physics, 123 (2), 1200-1207, https://doi.org/10.1002/2017JA024850.
+<li>2. **Huayue Chen**, Xinliang Gao, Quanming Lu, Jicheng Sun, & Shui Wang (2018). **Nonlinear evolution of counter-propagating whistler mode waves excited by anisotropic electrons within the equatorial source region: 1-D PIC simulations**. Journal of Geophysical Research: Space Physics, 123 (2), 1200-1207, https://doi.org/10.1002/2017JA024850.</li>
 
 3. **Huayue Chen**, Xinliang Gao, Quanming Lu, & Shui Wang (2018). **In situ observations of harmonic Alfvén waves and associated heavy ion heating**. The Astrophysical Journal, 859 (2), https://doi.org/10.3847/1538-4357/aabee2.  
 
