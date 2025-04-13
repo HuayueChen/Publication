@@ -107,16 +107,7 @@
 <br>
 <br>
     <li value="1"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). <b>Lower band cascade of whistler waves excited by anisotropic hot electrons: one-dimensional PIC simulations</b>. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513.
-</ol>
-
-
-
-
-# Public Platform
-1. https://mp.weixin.qq.com/s/yNxNQFITrQ9G4XW8MnXOYA      
-2. https://mp.weixin.qq.com/s/Nzyu3SsHXKc0BoWOwgp1wA   
-3. https://mp.weixin.qq.com/s/_iFXbAQx9HnqSuBOCT8_JQ   
-4. https://mp.weixin.qq.com/s/XbHK-zFl3rPIxXtSJEG9ew       
+</ol>  
 
 # Contact
 陈华岳 huayue_chen@foxmail.com
