@@ -1,7 +1,7 @@
 # Publication
 
 <ol>
-     <li value="37"> <b>Huayue Chen</b>, Xueyi Wang, Yu Lin, Hong Zhao, Chih-Ping Wang, Xinmin Li, Shujie Gu, Yoshiharu Omura, Lunjin Chen, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Nonlinear proton dynamics in the formation of rising-tone EMIC wave subpackets</b>. Geophysical Research Letters, accepted.
+     <li value="37"> <b>Huayue Chen</b>, Xueyi Wang, Yu Lin, Hong Zhao, Chih-Ping Wang, Xinmin Li, Shujie Gu, Yoshiharu Omura, Lunjin Chen, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Nonlinear proton dynamics in the formation of rising-tone EMIC wave subpackets</b>. Geophysical Research Letters, 52, e2025GL115834. https://doi.org/10.1029/2025GL115834.
 <br> 
 <br>
      <li value="36"> <b>Huayue Chen</b>, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). <b>Electron dynamics associated with advection and diffusion in self-consistent wave-particle interactions with oblique chorus waves</b>. Geophysical Research Letters, 51, e2024GL110362. https://doi.org/10.1029/2024GL110362.
