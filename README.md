@@ -1,7 +1,7 @@
 # Publication
 
 <ol>
-     <li value="38"> Rui Chen, Yoshizumi Miyoshi, Hong Zhao, <b>Huayue Chen</b>, Xueyi Wang, Yoshiya Kasahara, Shoya Matsuda, Tomoaki Hori, Fuminori Tsuchiya, Atsushi Kumamoto, Atsuki Shinbori, Satoshi Kasahara, Shoichiro Yokota, Kunihiro Keika, Takefumi Mitani,Takeshi Takashima, Ayako Matsuoka, Mariko Teramoto, Kazuhiro Yamamoto, & Iku Shinohara (2025). <b>Observational evidence for the nonlinear growth of chorus waves caused by substorm injected energetic electrons</b>. Journal of Geophysical Research: Space Physics, accepted.
+     <li value="38"> Rui Chen, Yoshizumi Miyoshi, Hong Zhao, <b>Huayue Chen</b>, Xueyi Wang, Yoshiya Kasahara, Shoya Matsuda, Tomoaki Hori, Fuminori Tsuchiya, Atsushi Kumamoto, Atsuki Shinbori, Satoshi Kasahara, Shoichiro Yokota, Kunihiro Keika, Takefumi Mitani, Takeshi Takashima, Ayako Matsuoka, Mariko Teramoto, Kazuhiro Yamamoto, & Iku Shinohara (2025). <b>Observational evidence for the nonlinear growth of chorus waves caused by substorm injected energetic electrons</b>. Journal of Geophysical Research: Space Physics, accepted.
 <br> 
 <br>
      <li value="37"> <b>Huayue Chen</b>, Xueyi Wang, Yu Lin, Hong Zhao, Chih-Ping Wang, Xinmin Li, Shujie Gu, Yoshiharu Omura, Lunjin Chen, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Nonlinear proton dynamics in the formation of rising-tone EMIC wave subpackets</b>. Geophysical Research Letters, 52, e2025GL115834. https://doi.org/10.1029/2025GL115834.
