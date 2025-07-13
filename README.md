@@ -1,39 +1,4 @@
 # Publication
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Publications</title>
-  <style>
-    .paper-item {
-      margin-bottom: 20px;
-      padding: 10px;
-    }
-    .download-icon {
-      margin-left: 10px;
-      text-decoration: none;
-      font-size: 16px;
-    }
-  </style>
-</head>
-<body>
-
-  <h2>Selected Publications</h2>
-  <ol reversed>
-
-    <li class="paper-item" value="38">
-      Rui Chen, Yoshizumi Miyoshi, Hong Zhao, <b>Huayue Chen</b>, ...
-      <b>Observational evidence for the nonlinear growth of chorus waves...</b>
-      <i>Journal of Geophysical Research: Space Physics</i>, 130, e2025JA033931.  
-      <a class="download-icon" href="pdfs/38.pdf" download title="Download PDF">📄</a>
-    </li>
-
-  </ol>
-
-</body>
-</html>
-
 <ol>
      <li value="38"> Rui Chen, Yoshizumi Miyoshi, Hong Zhao, <b>Huayue Chen</b>, Xueyi Wang, Yoshiya Kasahara, Shoya Matsuda, Tomoaki Hori, Fuminori Tsuchiya, Atsushi Kumamoto, Atsuki Shinbori, Satoshi Kasahara, Shoichiro Yokota, Kunihiro Keika, Takefumi Mitani, Takeshi Takashima, Ayako Matsuoka, Mariko Teramoto, Kazuhiro Yamamoto, & Iku Shinohara (2025). <b>Observational evidence for the nonlinear growth of chorus waves caused by substorm injected energetic electrons</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA033931. https://doi.org/10.1029/2025JA033931.<a href="pdfs/38.pdf" download>
   📄 Download PDF
