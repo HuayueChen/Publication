@@ -112,7 +112,7 @@
 </a>
 <br> 
 <br> 
-    <li value="10"> Rui Chen, Xinliang Gao, <b>Huayue Chen</b>, & Shui Wang (2020). <b>A new generation mechanism of three-band chorus waves in the Earth’s magnetosphere</b>. Journal of University of Science and Technology of China, 50 (9): 1249-1257, https://doi:10.3969/j.issn.0253-2778.2020.09.004.  <a href="pdfs/010.pdf" download>📄 Download PDF
+    <li value="10"> Rui Chen, Xinliang Gao, <b>Huayue Chen</b>, & Shui Wang (2020). <b>A new generation mechanism of three-band chorus waves in the Earth’s magnetosphere</b>. Journal of University of Science and Technology of China, 50 (9): 1249-1257, https://doi.org/10.3969/j.issn.0253-2778.2020.09.004.  <a href="pdfs/010.pdf" download>📄 Download PDF
 </a>
 <br> 
 <br> 
