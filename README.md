@@ -5,58 +5,76 @@
 </a>
 <br> 
 <br>
-     <li value="37"> <b>Huayue Chen</b>, Xueyi Wang, Yu Lin, Hong Zhao, Chih-Ping Wang, Xinmin Li, Shujie Gu, Yoshiharu Omura, Lunjin Chen, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Nonlinear proton dynamics in the formation of rising-tone EMIC wave subpackets</b>. Geophysical Research Letters, 52, e2025GL115834. https://doi.org/10.1029/2025GL115834.
+     <li value="37"> <b>Huayue Chen</b>, Xueyi Wang, Yu Lin, Hong Zhao, Chih-Ping Wang, Xinmin Li, Shujie Gu, Yoshiharu Omura, Lunjin Chen, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Nonlinear proton dynamics in the formation of rising-tone EMIC wave subpackets</b>. Geophysical Research Letters, 52, e2025GL115834. https://doi.org/10.1029/2025GL115834.<a href="pdfs/37.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-     <li value="36"> <b>Huayue Chen</b>, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). <b>Electron dynamics associated with advection and diffusion in self-consistent wave-particle interactions with oblique chorus waves</b>. Geophysical Research Letters, 51, e2024GL110362. https://doi.org/10.1029/2024GL110362.
+     <li value="36"> <b>Huayue Chen</b>, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). <b>Electron dynamics associated with advection and diffusion in self-consistent wave-particle interactions with oblique chorus waves</b>. Geophysical Research Letters, 51, e2024GL110362. https://doi.org/10.1029/2024GL110362.<a href="pdfs/36.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-     <li value="35"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Xiao-Jia Zhang, Yoshiharu Omura, Rui Chen, Yi-Kai Hsieh, Yu Lin, & Zhiyang Xia (2024). <b>Nonlinear electron trapping through cyclotron resonance in the formation of chorus subpackets</b>. Geophysical Research Letters, 51, e2024GL109481. http://doi.org/10.1029/2024GL109481.
+     <li value="35"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Xiao-Jia Zhang, Yoshiharu Omura, Rui Chen, Yi-Kai Hsieh, Yu Lin, & Zhiyang Xia (2024). <b>Nonlinear electron trapping through cyclotron resonance in the formation of chorus subpackets</b>. Geophysical Research Letters, 51, e2024GL109481. http://doi.org/10.1029/2024GL109481.<a href="pdfs/35.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-     <li value="34"> Xueyi Wang, <b>Huayue Chen</b>, Yoshiharu Omura, Yi-Kai Hsieh, Lunjin Chen, Yu Lin, Xiao-Jia Zhang, & Zhiyang Xia (2024). <b>Resonant electron signatures in the formation of chorus wave subpackets</b>. Geophysical Research Letters, 51, e2023GL108000. http://doi.org/10.1029/2023GL108000.
+     <li value="34"> Xueyi Wang, <b>Huayue Chen</b>, Yoshiharu Omura, Yi-Kai Hsieh, Lunjin Chen, Yu Lin, Xiao-Jia Zhang, & Zhiyang Xia (2024). <b>Resonant electron signatures in the formation of chorus wave subpackets</b>. Geophysical Research Letters, 51, e2023GL108000. http://doi.org/10.1029/2023GL108000.<a href="pdfs/34.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-     <li value="33"> Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere</b>. Geophysical Research Letters, 50, e2023GL104431. http://doi.org/10.1029/2023GL104431.
+     <li value="33"> Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere</b>. Geophysical Research Letters, 50, e2023GL104431. http://doi.org/10.1029/2023GL104431.<a href="pdfs/33.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-     <li value="32"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Bruce Tsurutani, Yu Lin, & Zhiyang Xia (2023). <b>Evolution of chorus subpackets in the Earth’s magnetosphere</b>. Geophysical Research Letters, 50, e2023GL105938. https://doi.org/10.1029/2023GL105938.
+     <li value="32"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Bruce Tsurutani, Yu Lin, & Zhiyang Xia (2023). <b>Evolution of chorus subpackets in the Earth’s magnetosphere</b>. Geophysical Research Letters, 50, e2023GL105938. https://doi.org/10.1029/2023GL105938.<a href="pdfs/32.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-     <li value="31"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). <b>Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation</b>. Journal of Geophysical Research: Space Physics, 128, e2023JA031566. https://doi.org/10.1029/2023JA031566.
+     <li value="31"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, & Bruce Tsurutani (2023). <b>Global distribution of relativistic electron precipitation and the dependences on substorm injection and solar wind ram pressure: long-term POES observation</b>. Journal of Geophysical Research: Space Physics, 128, e2023JA031566. https://doi.org/10.1029/2023JA031566.<a href="pdfs/31.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-     <li value="30"> Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere</b>. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.
+     <li value="30"> Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, Yoshizumi Miyoshi, Xuan Zhou, Yangguang Ke, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of whistler mode waves inside mirror mode structures in the Earth’s outer magnetosphere</b>. Journal of Geophysical Research: Space Physics, 128, e2023JA031792. https://doi.org/10.1029/2023JA031792.<a href="pdfs/30.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-    <li value="29"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). <b>Simulation of downward frequency chirping in the rising tone chorus element</b>. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.
+    <li value="29"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Yoshiharu Omura, Quanming Lu, Rui Chen, Zhiyang Xia, & Xinliang Gao (2023). <b>Simulation of downward frequency chirping in the rising tone chorus element</b>. Geophysical Research Letters, 50, e2023GL103160. https://doi.org/10.1029/2023GL103160.<a href="pdfs/29.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-    <li value="28"> <b>Huayue Chen</b>, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). <b>Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations</b>. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748. 
+    <li value="28"> <b>Huayue Chen</b>, Rui Chen, Xinliang Gao, Quanming Lu, Yangguang Ke, & Zhenyu Kong (2023). <b>Unraveling the role of electron plateau distributions in the power gap formation of chorus waves: Van Allen Probes observations</b>. Geophysical Research Letters, 50, e2023GL102748. https://doi.org/10.1029/2023GL102748.<a href="pdfs/28.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-    <li value="27"> Yangguang Ke, Quanming Lu, Xinliang Gao, <b>Huayue Chen</b>, & Rui Chen (2022). <b>Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields</b>. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.
+    <li value="27"> Yangguang Ke, Quanming Lu, Xinliang Gao, <b>Huayue Chen</b>, & Rui Chen (2022). <b>Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields</b>. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.<a href="pdfs/27.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-    <li value="26"> Jiuqi Ma, Xinliang Gao, <b>Huayue Chen</b>, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). <b>The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030502. https://doi.org/10.1029/2022JA030502. 
+    <li value="26"> Jiuqi Ma, Xinliang Gao, <b>Huayue Chen</b>, Bruce Tsurutani, Yangguang Ke, Rui Chen, & Quanming Lu (2022). <b>The effects of substorm injection of energetic electrons and enhanced solar wind ram pressure on whistler-mode chorus waves: a statistical study</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030502. https://doi.org/10.1029/2022JA030502.<a href="pdfs/26.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-    <li value="25"> Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, <b>Huayue Chen</b>, & Shui Wang (2022). <b>First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere</b>. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592. 
+    <li value="25"> Rui Chen, Xinliang Gao, Quanming Lu, Bruce Tsurutani, <b>Huayue Chen</b>, & Shui Wang (2022). <b>First observation of electron cyclotron harmonic waves inside mirror mode structures in the Earth's outer magnetosphere</b>. Geophysical Research Letters, 49, e2021GL097592. https://doi.org/10.1029/2021GL097592.<a href="pdfs/25.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-    <li value="24"> Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & <b>Huayue Chen</b> (2022). <b>Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.
+    <li value="24"> Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & <b>Huayue Chen</b> (2022). <b>Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.<a href="pdfs/24.pdf" download>
+  📄 Download PDF
 <br> 
 <br>
-    <li value="23"> Rui Chen, Bruce Tsurutani, Xinliang Gao, <b>Huayue Chen</b>, Gurbax Lakhiana, & Rajkumar Hajra (2022). <b>The structure and microstructure of rising-tone chorus with frequencies crossing at f~0.5 fce</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030438. https://doi.org/10.1029/2022JA030438. 
+    <li value="23"> Rui Chen, Bruce Tsurutani, Xinliang Gao, <b>Huayue Chen</b>, Gurbax Lakhiana, & Rajkumar Hajra (2022). <b>The structure and microstructure of rising-tone chorus with frequencies crossing at f~0.5 fce</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030438. https://doi.org/10.1029/2022JA030438.<a href="pdfs/23.pdf" download>
+  📄 Download PDF
 <br> 
 <br> 
-    <li value="22"> Konrad Sauer, <b>Huayue Chen</b>, Eduard Dubinin, & Quanming Lu (2022). <b>Frequency bands and gaps of magnetospheric chorus waves generated by resonant beam/plateau electrons</b>. Journal of Modern Physics, 13, 864-891. https://doi.org/10.4236/jmp.2022.136050. 
+    <li value="22"> Konrad Sauer, <b>Huayue Chen</b>, Eduard Dubinin, & Quanming Lu (2022). <b>Frequency bands and gaps of magnetospheric chorus waves generated by resonant beam/plateau electrons</b>. Journal of Modern Physics, 13, 864-891. https://doi.org/10.4236/jmp.2022.136050.<a href="pdfs/22.pdf" download>
+  📄 Download PDF 
 <br> 
 <br> 
-    <li value="21"> Xinliang Gao, Rui Chen, Quanming Lu, Lunjin Chen, <b>Huayue Chen</b>, & Xueyi Wang (2022). <b>Observational evidence for the origin of repetitive chorus emissions</b>. Geophysical Research Letters, 49, e2022GL099000. https://doi.org/10.1029/2022GL099000. 
+    <li value="21"> Xinliang Gao, Rui Chen, Quanming Lu, Lunjin Chen, <b>Huayue Chen</b>, & Xueyi Wang (2022). <b>Observational evidence for the origin of repetitive chorus emissions</b>. Geophysical Research Letters, 49, e2022GL099000. https://doi.org/10.1029/2022GL099000.<a href="pdfs/21.pdf" download>
+  📄 Download PDF
 <br> 
 <br> 
-    <li value="20"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Kai Fan, Yangguang Ke, Xueyi Wang, & Shui Wang (2022). <b>Gap formation around 0.5Ωe in the whistler-mode waves due to the plateau-like shape in the parallel electron distribution: 2D PIC simulations</b>. Journal of Geophysical Research: Space Physics, 127, e2021JA030119. https://doi.org/10.1029/2021JA030119.
+    <li value="20"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Kai Fan, Yangguang Ke, Xueyi Wang, & Shui Wang (2022). <b>Gap formation around 0.5Ωe in the whistler-mode waves due to the plateau-like shape in the parallel electron distribution: 2D PIC simulations</b>. Journal of Geophysical Research: Space Physics, 127, e2021JA030119. https://doi.org/10.1029/2021JA030119.<a href="pdfs/20.pdf" download>
+  📄 Download PDF
 <br> 
 <br> 
     <li value="19"> <b>Huayue Chen</b>, Quanming Lu, Xueyi Wang, Kai Fan, Rui Chen, & Xinliang Gao (2022). <b>One-dimensional gcPIC-δf simulation of hooked chorus waves in the Earth’s inner magnetosphere</b>. Geophysical Research Letters, 49, e2022GL097989. https://doi.org/10.1029/2022GL097989. 
