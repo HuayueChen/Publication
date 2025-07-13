@@ -128,7 +128,7 @@
 </a>
 <br> 
 <br> 
-    <li value="6"> Zhi Li, Quanming Lu, Rongsheng Wang, Xinliang Gao, & <b>Huayue Chen</b> (2019). <b>In situ evidence of resonant interactions between energetic electrons and whistler waves in magnetopause reconnection</b>. Earth and Planetary Physics, 3 (6), 467-473, http://doi:10.26464/epp2019048.  <a href="pdfs/006.pdf" download>📄 Download PDF
+    <li value="6"> Zhi Li, Quanming Lu, Rongsheng Wang, Xinliang Gao, & <b>Huayue Chen</b> (2019). <b>In situ evidence of resonant interactions between energetic electrons and whistler waves in magnetopause reconnection</b>. Earth and Planetary Physics, 3 (6), 467-473, https://doi.org/10.26464/epp2019048.  <a href="pdfs/006.pdf" download>📄 Download PDF
 </a>
 <br> 
 <br> 
