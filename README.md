@@ -57,6 +57,7 @@
 <br> 
 <br>
     <li value="24"> Xinliang Gao, Quanming Lu, Ning Kang, Yangguang Ke, Jiuqi Ma, Bruce Tsurutani, Rui Chen, & <b>Huayue Chen</b> (2022). <b>Study on source region and generation mechanism of oblique whistler-mode waves in the Earth's magnetosphere</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030804. https://doi.org/10.1029/2022JA030804.  <a href="pdfs/024.pdf" download>📄 Download PDF
+</a>
 <br> 
 <br>
     <li value="23"> Rui Chen, Bruce Tsurutani, Xinliang Gao, <b>Huayue Chen</b>, Gurbax Lakhiana, & Rajkumar Hajra (2022). <b>The structure and microstructure of rising-tone chorus with frequencies crossing at f~0.5 fce</b>. Journal of Geophysical Research: Space Physics, 127, e2022JA030438. https://doi.org/10.1029/2022JA030438.  <a href="pdfs/023.pdf" download>📄 Download PDF
@@ -72,6 +73,7 @@
 <br> 
 <br> 
     <li value="20"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Kai Fan, Yangguang Ke, Xueyi Wang, & Shui Wang (2022). <b>Gap formation around 0.5Ωe in the whistler-mode waves due to the plateau-like shape in the parallel electron distribution: 2D PIC simulations</b>. Journal of Geophysical Research: Space Physics, 127, e2021JA030119. https://doi.org/10.1029/2021JA030119.  <a href="pdfs/020.pdf" download>📄 Download PDF
+</a>
 <br> 
 <br> 
     <li value="19"> <b>Huayue Chen</b>, Quanming Lu, Xueyi Wang, Kai Fan, Rui Chen, & Xinliang Gao (2022). <b>One-dimensional gcPIC-δf simulation of hooked chorus waves in the Earth’s inner magnetosphere</b>. Geophysical Research Letters, 49, e2022GL097989. https://doi.org/10.1029/2022GL097989.<a href="pdfs/019.pdf" download>📄 Download PDF
