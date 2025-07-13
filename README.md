@@ -116,7 +116,7 @@
 </a>
 <br> 
 <br> 
-    <li value="9"> Jiansheng Yao, Xinliang Gao, <b>Huayue Chen</b>, Yangguang Ke, & Yi Li (2020). <b>The effects of beam proportion on electromagnetic proton/proton instability and associated ion heating: 2D hybrid simulation</b>. Physics of Plasmas, 27, 022901, http://doi:10.1063/1.5128744.  <a href="pdfs/009.pdf" download>📄 Download PDF
+    <li value="9"> Jiansheng Yao, Xinliang Gao, <b>Huayue Chen</b>, Yangguang Ke, & Yi Li (2020). <b>The effects of beam proportion on electromagnetic proton/proton instability and associated ion heating: 2D hybrid simulation</b>. Physics of Plasmas, 27, 022901, http://doi.org/10.1063/1.5128744.  <a href="pdfs/009.pdf" download>📄 Download PDF
 </a>
 <br> 
 <br> 
