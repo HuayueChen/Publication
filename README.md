@@ -1,6 +1,9 @@
 # Publication
 <ol>
-     <li value="38" style="background-color: yellow;"> Rui Chen, Yoshizumi Miyoshi, Hong Zhao, <b>Huayue Chen</b>, Xueyi Wang, Yoshiya Kasahara, Shoya Matsuda, Tomoaki Hori, Fuminori Tsuchiya, Atsushi Kumamoto, Atsuki Shinbori, Satoshi Kasahara, Shoichiro Yokota, Kunihiro Keika, Takefumi Mitani, Takeshi Takashima, Ayako Matsuoka, Mariko Teramoto, Kazuhiro Yamamoto, & Iku Shinohara (2025). <b>Observational evidence for the nonlinear growth of chorus waves caused by substorm injected energetic electrons</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA033931. https://doi.org/10.1029/2025JA033931.  <a href="pdfs/038.pdf" download>📄 PDF
+     <li value="38"> Rui Chen, Yoshizumi Miyoshi, Hong Zhao, <b>Huayue Chen</b>, Xueyi Wang, Yoshiya Kasahara, Shoya Matsuda, Tomoaki Hori, Fuminori Tsuchiya, Atsushi Kumamoto, Atsuki Shinbori, Satoshi Kasahara, Shoichiro Yokota, Kunihiro Keika, Takefumi Mitani, Takeshi Takashima, Ayako Matsuoka, Mariko Teramoto, Kazuhiro Yamamoto, & Iku Shinohara (2025). <b>Observational evidence for the nonlinear growth of chorus waves caused by substorm injected energetic electrons</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA033931. https://doi.org/10.1029/2025JA033931.  <a href="pdfs/038.pdf" download>📄 PDF
+          <li value="38" style="color: gray;">
+  Rui Chen, Yoshizumi Miyoshi, Hong Zhao, <b>Huayue Chen</b>, Xueyi Wang, Yoshiya Kasahara, Shoya Matsuda, Tomoaki Hori, Fuminori Tsuchiya, Atsushi Kumamoto, Atsuki Shinbori, Satoshi Kasahara, Shoichiro Yokota, Kunihiro Keika, 
+</li>
 </a>
 <br> 
 <br>
