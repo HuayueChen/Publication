@@ -1,6 +1,6 @@
 # Publication
 <ol>
-     <li value="39"> Xiaolei Li, Xueyi Wang, Yu Lin, Chih-Ping Wang, Simon Wing, Gonzalo Cucho-Padin, & <b>Huayue Chen</b> (2025). <b>Dayside reconnection and associated cusp structure in response to solar wind rotational discontinuity (RD) in ANGIE3D simulation</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA033811. Accepted.
+     <li value="39"> Xiaolei Li, Xueyi Wang, Yu Lin, Chih-Ping Wang, Simon Wing, Gonzalo Cucho-Padin, & <b>Huayue Chen</b> (2025). <b>Dayside reconnection and associated cusp structure in response to solar wind rotational discontinuity (RD) in ANGIE3D simulation</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA033811. https://doi.org/10.1029/2025JA033811. <a href="pdfs/039.pdf" download>📄 PDF
 </a>
 <br> 
 <br>
