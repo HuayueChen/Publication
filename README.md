@@ -1,5 +1,9 @@
 # Publication
 <ol>
+    <li value="40"> <b>Huayue Chen</b>, Xueyi Wang, Rui Chen, Lunjin Chen, Yoshiharu Omura, Yoshizumi Miyoshi, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Simulation study of chorus wave modulation and associated electron precipitation</b>. Geophysical Research Letters, 52, e2025GL118562. Accepted.
+</a>
+<br> 
+<br>
      <li value="39"> Xiaolei Li, Xueyi Wang, Yu Lin, Chih-Ping Wang, Simon Wing, Gonzalo Cucho-Padin, & <b>Huayue Chen</b> (2025). <b>Dayside reconnection and associated cusp structure in response to solar wind rotational discontinuity (RD) in ANGIE3D simulation</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA033811. https://doi.org/10.1029/2025JA033811. <a href="pdfs/039.pdf" download>📄 PDF
 </a>
 <br> 
