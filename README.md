@@ -1,6 +1,6 @@
 # Publication
 <ol>
-    <li value="40"> <b>Huayue Chen</b>, Xueyi Wang, Rui Chen, Lunjin Chen, Yoshiharu Omura, Yoshizumi Miyoshi, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Simulation study of chorus wave modulation and associated electron precipitation</b>. Geophysical Research Letters, 52, e2025GL118562. Accepted.
+    <li value="40"> <b>Huayue Chen</b>, Xueyi Wang, Rui Chen, Lunjin Chen, Yoshiharu Omura, Yoshizumi Miyoshi, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Simulation study of chorus wave modulation and associated electron precipitation</b>. Geophysical Research Letters, 52, e2025GL118562. https://doi.org/10.1029/2025GL118562. <a href="pdfs/040.pdf" download>📄 PDF
 </a>
 <br> 
 <br>
