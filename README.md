@@ -1,5 +1,9 @@
 # Publication
 <ol>
+    <li value="41"> <b>Huayue Chen</b>, Xueyi Wang, Xiaolei Li, Rui Chen, Lunjin Chen, Lunjin Chen, Yoshiharu Omura, Yi-Kai Hsieh, Yu Lin, & M. L. Adrian (2025). <b>Quantifying Electron Precipitation Driven by Chorus Waves Using Self-Consistent Particle-In-Cell Simulations</b>. Geophysical Research Letters, 52, e2025GL116478. Accepted.
+</a>
+<br> 
+<br>
     <li value="40"> <b>Huayue Chen</b>, Xueyi Wang, Rui Chen, Lunjin Chen, Yoshiharu Omura, Yoshizumi Miyoshi, Xiaolei Li, & Yi-Kai Hsieh (2025). <b>Simulation study of chorus wave modulation and associated electron precipitation</b>. Geophysical Research Letters, 52, e2025GL118562. https://doi.org/10.1029/2025GL118562. <a href="pdfs/040.pdf" download>📄 PDF
 </a>
 <br> 
