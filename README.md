@@ -1,5 +1,9 @@
 # Publication
 <ol>
+    <li value="42"> Zhiyang Xia, Lunjin Chen, Wenyao Gu, Xueyi Wang, & <b>Huayue Chen</b> (2025). <b>Spatial-scale analysis of rising-tone chorus waves in a dipole magnetic field from two-dimensional particle-in-cell simulation</b>. Journal of Geophysical Research: Space Physics, accepted.
+</a>
+<br> 
+<br>
     <li value="41"> <b>Huayue Chen</b>, Xueyi Wang, Xiaolei Li, Rui Chen, Lunjin Chen, Yoshiharu Omura, Yi-Kai Hsieh, Yu Lin, & M. L. Adrian (2025). <b>Quantifying electron precipitation driven by chorus waves using self-consistent particle-in-cell simulations</b>. Geophysical Research Letters, 52, e2025GL116478. https://doi.org/10.1029/2025GL116478. <a href="pdfs/041.pdf" download>📄 PDF
 </a>
 <br> 
