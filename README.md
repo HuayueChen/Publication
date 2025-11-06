@@ -1,6 +1,6 @@
 # Publication
 <ol>
-    <li value="42"> Zhiyang Xia, Lunjin Chen, Wenyao Gu, Xueyi Wang, & <b>Huayue Chen</b> (2025). <b>Spatial-scale analysis of rising-tone chorus waves in a dipole magnetic field from two-dimensional particle-in-cell simulation</b>. Journal of Geophysical Research: Space Physics, accepted.
+    <li value="42"> Zhiyang Xia, Lunjin Chen, Wenyao Gu, Xueyi Wang, & <b>Huayue Chen</b> (2025). <b>Spatial-scale analysis of rising-tone chorus waves in a dipole magnetic field from two-dimensional particle-in-cell simulation</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA034100. https://doi.org/10.1029/2025JA034100. <a href="pdfs/042.pdf" download>📄 PDF
 </a>
 <br> 
 <br>
