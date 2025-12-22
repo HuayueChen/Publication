@@ -1,6 +1,6 @@
 # Publication
 <ol>
-    <li value="43"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Chih-Ping Wang, Xiaolei Li, Yu Lin, Hong Zhao, Yoshiharu Omura, Yi-Kai Hsieh, Xinmin Li, Levon A. Avanov, Hanying Wei, & Narges Ahmadi (2025). <b>Cold proton nonresonant response to EMIC waves: MMS observations and a hybrid simulation</b>. Earth, Planets and Space. Accepted.
+    <li value="43"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Chih-Ping Wang, Xiaolei Li, Yu Lin, Hong Zhao, Yoshiharu Omura, Yi-Kai Hsieh, Xinmin Li, Levon A. Avanov, Hanying Wei, & Narges Ahmadi (2025). <b>Cold proton nonresonant response to EMIC waves: MMS observations and a hybrid simulation</b>. Earth, Planets and Space. Accepted. https://doi.org/10.1186/s40623-025-02355-x.
 </a>
 <br> 
 <br>    
