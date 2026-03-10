@@ -10,6 +10,7 @@
 <a href="#y2019">[2019]</a>
 <a href="#y2018">[2018]</a>
 <a href="#y2017">[2017]</a>
+<br><br>
 <ol>
  <a id="y2026"></a>
     <li value="43"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Chih-Ping Wang, Xiaolei Li, Yu Lin, Hong Zhao, Yoshiharu Omura, Yi-Kai Hsieh, Xinmin Li, Levon A. Avanov, Hanying Wei, & Narges Ahmadi (2026). <b>Cold proton nonresonant response to EMIC waves: MMS observations and a hybrid simulation</b>. Earth, Planets and Space, 78, 42. https://doi.org/10.1186/s40623-025-02355-x. <a href="pdfs/043.pdf" download>📄 PDF
