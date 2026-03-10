@@ -1,8 +1,17 @@
-<a href="#y2025">2018</a> |
-<a href="#y2024">2017</a>
-
 # Publication
+<b>Quick Navigation:</b>
+<a href="#y2026">[2026]</a>
+<a href="#y2025">[2025]</a>
+<a href="#y2024">[2024]</a>
+<a href="#y2023">[2023]</a>
+<a href="#y2022">[2022]</a>
+<a href="#y2021">[2021]</a>
+<a href="#y2020">[2020]</a>
+<a href="#y2019">[2019]</a>
+<a href="#y2018">[2018]</a>
+<a href="#y2017">[2017]</a>
 <ol>
+ <a id="y2026"></a>
     <li value="43"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Chih-Ping Wang, Xiaolei Li, Yu Lin, Hong Zhao, Yoshiharu Omura, Yi-Kai Hsieh, Xinmin Li, Levon A. Avanov, Hanying Wei, & Narges Ahmadi (2026). <b>Cold proton nonresonant response to EMIC waves: MMS observations and a hybrid simulation</b>. Earth, Planets and Space, 78, 42. https://doi.org/10.1186/s40623-025-02355-x. <a href="pdfs/043.pdf" download>📄 PDF
 </a>
 <br> 
@@ -45,6 +54,7 @@
 </a>
 <br> 
 <br>
+ <a id="y2023"></a>
      <li value="33"> Xinmin Li, Rongsheng Wang, Xinliang Gao, Quanming Lu, <b>Huayue Chen</b>, & Jiuqi Ma (2023). <b>Observation of non-resonance interactions between cold protons and EMIC waves of different polarizations in the inner magnetosphere</b>. Geophysical Research Letters, 50, e2023GL104431. http://doi.org/10.1029/2023GL104431.  <a href="pdfs/033.pdf" download>📄 PDF
 </a>
 <br> 
@@ -69,6 +79,7 @@
 </a>
 <br> 
 <br>
+<a id="y2022"></a>
     <li value="27"> Yangguang Ke, Quanming Lu, Xinliang Gao, <b>Huayue Chen</b>, & Rui Chen (2022). <b>Ray-tracing simulations of whistler-mode wave propagation in different rescaled dipole magnetic fields</b>. Earth and Planetary Physics, 6 (6), 555-562. https://doi.org/10.26464/epp2022048.  <a href="pdfs/027.pdf" download>📄 PDF
 </a>
 <br> 
@@ -108,7 +119,8 @@
     <li value="18"> Yangguang Ke, Xinliang Gao, Quanming Lu, Xueyi Wang, Rui Chen, <b>Huayue Chen</b>, & Shui Wang (2022). <b>Deformation of electron distributions due to Landau trapping by the whistler-mode wave</b>. Geophysical Research Letters, 49, e2021GL096428. https://doi.org/10.1029/2021GL096428.  <a href="pdfs/018.pdf" download>📄 PDF
 </a>
 <br> 
-<br> 
+<br>
+<a id="y2021"></a>
     <li value="17"> Ning Kang, Quanming Lu, Xinliang Gao, Xueyi Wang, <b>Huayue Chen</b>, & Shui Wang (2021). <b>Propagation of electromagnetic ion cyclotron waves in a dipole magnetic field: a 2-D hybrid simulation</b>. Journal of Geophysical Research: Space Physics, 126, e2021JA029720. https://doi.org/10.1029/2021JA029720.  <a href="pdfs/017.pdf" download>📄 PDF
 </a>
 <br> 
@@ -129,6 +141,7 @@
 </a>
 <br> 
 <br> 
+<a id="y2020"></a>
     <li value="12"> <b>Huayue Chen</b>, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). <b>Two-band whistler-mode waves excited by an electron bi-Maxwellian distribution plus parallel beams</b>b. AIP Advances, 10, 125010, https://doi.org/10.1063/5.0026220.  <a href="pdfs/012.pdf" download>📄 PDF
 </a>
 <br> 
@@ -149,6 +162,7 @@
 </a>
 <br> 
 <br> 
+<a id="y2019"></a>
   <li value="7"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, & Shui Wang (2019). <b>Analyzing EMIC waves in the inner magnetosphere using long‐term Van Allen Probes observations</b>. Journal of Geophysical Research: Space Physics, 124 (9), 7204-7412, https://doi.org/10.1029/2019JA026965.  <a href="pdfs/007.pdf" download>📄 PDF
 </a>
 <br> 
@@ -164,7 +178,8 @@
     <li value="4"> A. A. Abid, Quanming Lu, <b>Huayue Chen</b>, Yangguang Ke, S. Ali, & Shui Wang (2019). <b>Effects of electron trapping on nonlinear electron-acoustic waves excited by an electron beam via particle-in-cell simulations</b>. Plasma Science and Technology, 21 (5), https://doi.org/10.1088/2058-6272/ab033f.  <a href="pdfs/004.pdf" download>📄 PDF
 </a>
 <br>
-<br> 
+<br>
+<a id="y2018"></a>
   <li value="3"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, & Shui Wang (2018). <b>In situ observations of harmonic Alfvén waves and associated heavy ion heating</b>. The Astrophysical Journal, 859 (2), https://doi.org/10.3847/1538-4357/aabee2.  <a href="pdfs/003.pdf" download>📄 PDF
 </a>
 <br>   
@@ -173,6 +188,7 @@
 </a>
 <br>
 <br>
+<a id="y2017"></a>
     <li value="1"> <b>Huayue Chen</b>, Xinliang Gao, Quanming Lu, Yangguang Ke, & Shui Wang (2017). <b>Lower band cascade of whistler waves excited by anisotropic hot electrons: one-dimensional PIC simulations</b>. Journal of Geophysical Research: Space Physics, 122 (10), 10, 448-10, 457, https://doi.org/10.1002/2017JA024513.  <a href="pdfs/001.pdf" download>📄 PDF
 </a>
 </ol>  
