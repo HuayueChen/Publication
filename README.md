@@ -1,9 +1,13 @@
+<a href="#y2025">2018</a> |
+<a href="#y2024">2017</a>
+
 # Publication
 <ol>
     <li value="43"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Chih-Ping Wang, Xiaolei Li, Yu Lin, Hong Zhao, Yoshiharu Omura, Yi-Kai Hsieh, Xinmin Li, Levon A. Avanov, Hanying Wei, & Narges Ahmadi (2026). <b>Cold proton nonresonant response to EMIC waves: MMS observations and a hybrid simulation</b>. Earth, Planets and Space, 78, 42. https://doi.org/10.1186/s40623-025-02355-x. <a href="pdfs/043.pdf" download>📄 PDF
 </a>
 <br> 
-<br>    
+<br>  
+ <a id="y2025"></a>
     <li value="42"> Zhiyang Xia, Lunjin Chen, Wenyao Gu, Xueyi Wang, & <b>Huayue Chen</b> (2025). <b>Spatial-scale analysis of rising-tone chorus waves in a dipole magnetic field from two-dimensional particle-in-cell simulation</b>. Journal of Geophysical Research: Space Physics, 130, e2025JA034100. https://doi.org/10.1029/2025JA034100. <a href="pdfs/042.pdf" download>📄 PDF
 </a>
 <br> 
@@ -28,6 +32,7 @@
 </a>
 <br> 
 <br>
+<a id="y2024"></a>
      <li value="36"> <b>Huayue Chen</b>, Xueyi Wang, Hong Zhao, Yu Lin, Lunjin Chen, Yoshiharu Omura, Rui Chen, & Yi-Kai Hsieh (2024). <b>Electron dynamics associated with advection and diffusion in self-consistent wave-particle interactions with oblique chorus waves</b>. Geophysical Research Letters, 51, e2024GL110362. https://doi.org/10.1029/2024GL110362.  <a href="pdfs/036.pdf" download>📄 PDF 
 </a>
 <br> 
