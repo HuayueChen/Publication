@@ -143,7 +143,7 @@
 <br> 
 <br> 
 <a id="y2020"></a>
-    <li value="12"> <b>Huayue Chen</b>, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). <b>Two-band whistler-mode waves excited by an electron bi-Maxwellian distribution plus parallel beams</b>b. AIP Advances, 10, 125010, https://doi.org/10.1063/5.0026220.  <a href="pdfs/012.pdf" download>📄 PDF
+    <li value="12"> <b>Huayue Chen</b>, Konrad Sauer, Quanming Lu, Xinliang Gao, & Shaojie Wang (2020). <b>Two-band whistler-mode waves excited by an electron bi-Maxwellian distribution plus parallel beams</b>. AIP Advances, 10, 125010, https://doi.org/10.1063/5.0026220.  <a href="pdfs/012.pdf" download>📄 PDF
 </a>
 <br> 
 <br> 
