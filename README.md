@@ -12,7 +12,12 @@
 <a href="#y2017">[2017]</a>
 <br><br>
 <ol>
+ Scott A. Boardsen, Lunjin Chen, Xueyi Wang, Geoffrey D. Reeves, Frantisek Nemec, & Huayue Chen
  <a id="y2026"></a>
+     <li value="44"> Scott A. Boardsen, Lunjin Chen, Xueyi Wang, Geoffrey D. Reeves, Frantisek Nemec, & <b>Huayue Chen</b> (2026). <b>Event study of cyclic diffusion of the proton shell distribution associated with quasi-periodic rising tone fast magnetosonic waves</b>. Journal of Geophysical Research: Space Physics, accepted.
+</a>
+<br> 
+<br> 
     <li value="43"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Chih-Ping Wang, Xiaolei Li, Yu Lin, Hong Zhao, Yoshiharu Omura, Yi-Kai Hsieh, Xinmin Li, Levon A. Avanov, Hanying Wei, & Narges Ahmadi (2026). <b>Cold proton nonresonant response to EMIC waves: MMS observations and a hybrid simulation</b>. Earth, Planets and Space, 78, 42. https://doi.org/10.1186/s40623-025-02355-x. <a href="pdfs/043.pdf" download>📄 PDF
 </a>
 <br> 
