@@ -13,7 +13,7 @@
 <br><br>
 <ol>
  <a id="y2026"></a>
-     <li value="44"> Scott A. Boardsen, Lunjin Chen, Xueyi Wang, Geoffrey D. Reeves, Frantisek Nemec, & <b>Huayue Chen</b> (2026). <b>Event study of cyclic diffusion of the proton shell distribution associated with quasi-periodic rising tone fast magnetosonic waves</b>. Journal of Geophysical Research: Space Physics, accepted.
+     <li value="44"> Scott A. Boardsen, Lunjin Chen, Xueyi Wang, Geoffrey D. Reeves, Frantisek Nemec, & <b>Huayue Chen</b> (2026). <b>Event study of cyclic diffusion of the proton shell distribution associated with quasi-periodic rising tone fast magnetosonic waves</b>. Journal of Geophysical Research: Space Physics, 131, e2025JA034926. https://doi.org/10.1029/2025JA034926.
 </a>
 <br> 
 <br> 
