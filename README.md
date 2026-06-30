@@ -13,6 +13,10 @@
 <br><br>
 <ol>
  <a id="y2026"></a>
+      <li value="45"> Xu Chen, <b>Huayue Chen</b>, Yu Lin, Hong Zhao, Chen Shi & Xueyi Wang (2026). <b>Computational study of whistler-mode wave excitation in the Earth’s inner magnetosphere</b>. Physics of Plasmas, accepted.
+</a>
+<br> 
+<br> 
      <li value="44"> Scott A. Boardsen, Lunjin Chen, Xueyi Wang, Geoffrey D. Reeves, Frantisek Nemec, & <b>Huayue Chen</b> (2026). <b>Event study of cyclic diffusion of the proton shell distribution associated with quasi-periodic rising tone fast magnetosonic waves</b>. Journal of Geophysical Research: Space Physics, 131, e2025JA034926. https://doi.org/10.1029/2025JA034926. <a href="pdfs/044.pdf" download>📄 PDF
 </a>
 <br> 
