@@ -17,7 +17,7 @@
 </a>
 <br> 
 <br> 
-      <li value="45"> Xu Chen, <b>Huayue Chen</b>, Yu Lin, Hong Zhao, Chen Shi & Xueyi Wang (2026). <b>Computational study of whistler-mode wave excitation in the Earth’s inner magnetosphere</b>. Physics of Plasmas, 33, 7, DOI: 10.1063/5.0311180, accepted.
+      <li value="45"> Xu Chen, <b>Huayue Chen</b>, Yu Lin, Hong Zhao, Chen Shi & Xueyi Wang (2026). <b>Computational study of whistler-mode wave excitation in the Earth’s inner magnetosphere</b>. Physics of Plasmas, 33, 7, DOI: 10.1063/5.0311180, accepted.<a href="pdfs/045.pdf" download>📄 PDF
 </a>
 <br> 
 <br> 
