@@ -13,7 +13,7 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
-      <li value="46"> <b>Huayue Chen</b>, Xueyi Wang, Rui Chen, Yoshiharu Omura, Lunjin Chen, Hong Zhao, & Yi-Kai Hsieh (2026). <b>Generation of falling-tone whistler-mode chorus waves in the Earth's magnetosphere</b>. Geophysical Research Letters, 53, e2026GL123750, accepted.
+      <li value="46"> <b>Huayue Chen</b>, Xueyi Wang, Rui Chen, Yoshiharu Omura, Lunjin Chen, Hong Zhao, & Yi-Kai Hsieh (2026). <b>Generation of falling-tone whistler-mode chorus waves in the Earth's magnetosphere</b>. Geophysical Research Letters, 53, e2026GL123750. https://doi.org/10.1029/2026GL123750. <a href="pdfs/046.pdf" download>📄 PDF
 </a>
 <br> 
 <br> 
