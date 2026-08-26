@@ -13,6 +13,10 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
+      <li value="47"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Jiabei He, Zhiyang Xia, & Rui Chen (2026). <b>Chorus element repetition: roles of energetic electron injection and nonlinear wave growth</b>. Geophysical Research Letters, 53, e2026GL125324. Accepted.
+</a>
+<br> 
+<br> 
       <li value="46"> <b>Huayue Chen</b>, Xueyi Wang, Rui Chen, Yoshiharu Omura, Lunjin Chen, Hong Zhao, & Yi-Kai Hsieh (2026). <b>Generation of falling-tone whistler-mode chorus waves in the Earth's magnetosphere</b>. Geophysical Research Letters, 53, e2026GL123750. https://doi.org/10.1029/2026GL123750. <a href="pdfs/046.pdf" download>📄 PDF
 </a>
 <br> 
