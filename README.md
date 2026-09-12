@@ -13,11 +13,11 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
-      <li value="48"> Lunjin Chen, Grant Berland, Robert A. Marshall, Jun Liang, <b>Huayue Chen</b>, & Zhiyang Xia (2026). <b>Chorus wave-induced ionospheric variability</b>. Geophysical Research Letters, 53, e2026GL123346. Accepted.
+      <li value="48"> Lunjin Chen, Grant D. Berland, Robert A. Marshall, Jun Liang, <b>Huayue Chen</b>, & Zhiyang Xia (2026). <b>Chorus wave-induced ionospheric variability</b>. Geophysical Research Letters, 53, e2026GL123346. https://doi.org/10.1029/2026GL123346. <a href="pdfs/048.pdf" download>📄 PDF
 </a>
 <br> 
 <br>
-      <li value="47"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Jiabei He, Zhiyang Xia, & Rui Chen (2026). <b>Chorus element repetition: roles of energetic electron injection and nonlinear wave growth</b>. Geophysical Research Letters, 53, e2026GL125324. Accepted.
+      <li value="47"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Jiabei He, Zhiyang Xia, & Rui Chen (2026). <b>Chorus element repetition: roles of energetic electron injection and nonlinear wave growth</b>. Geophysical Research Letters, 53, e2026GL125324. https://doi.org/10.1029/2026GL125324. <a href="pdfs/047.pdf" download>📄 PDF
 </a>
 <br> 
 <br> 
