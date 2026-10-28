@@ -13,6 +13,10 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
+      <li value="49"> Xueyi Wang, <b>Huayue Chen</b>, Ying-Dong Jia, Lunjin Chen, Xiaohua Fang, Yingjuan Ma, Xiaolei Li, Han-Wen Shen, & Zhiyang Xia (2026). <b>3-D global hybrid modeling of the Martian plasma environment (GCPIC-M): impact of IMF cone angle on ion escape</b>. Journal of Geophysical Research: Space Physics, 131, accepted.
+</a>
+<br> 
+<br>
       <li value="48"> Lunjin Chen, Grant D. Berland, Robert A. Marshall, Jun Liang, <b>Huayue Chen</b>, & Zhiyang Xia (2026). <b>Chorus wave-induced ionospheric variability</b>. Geophysical Research Letters, 53, e2026GL123346. https://doi.org/10.1029/2026GL123346. <a href="pdfs/048.pdf" download>📄 PDF
 </a>
 <br> 
