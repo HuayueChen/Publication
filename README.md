@@ -13,7 +13,7 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
-      <li value="49"> Xueyi Wang, <b>Huayue Chen</b>, Ying-Dong Jia, Lunjin Chen, Xiaohua Fang, Yingjuan Ma, Xiaolei Li, Han-Wen Shen, & Zhiyang Xia (2026). <b>3-D global hybrid modeling of the Martian plasma environment (GCPIC-M): impact of IMF cone angle on ion escape</b>. Journal of Geophysical Research: Space Physics, 131, accepted.
+      <li value="49"> Xueyi Wang, <b>Huayue Chen</b>, Ying-Dong Jia, Lunjin Chen, Xiaohua Fang, Yingjuan Ma, Xiaolei Li, Han-Wen Shen, & Zhiyang Xia (2026). <b>3-D global hybrid modeling of the Martian plasma environment (GCPIC-M): Impact of IMF cone angle on ion escape</b>. Journal of Geophysical Research: Space Physics, 131, accepted.
 </a>
 <br> 
 <br>
@@ -21,7 +21,7 @@
 </a>
 <br> 
 <br>
-      <li value="47"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Jiabei He, Zhiyang Xia, & Rui Chen (2026). <b>Chorus element repetition: roles of energetic electron injection and nonlinear wave growth</b>. Geophysical Research Letters, 53, e2026GL125324. https://doi.org/10.1029/2026GL125324. <a href="pdfs/047.pdf" download>📄 PDF
+      <li value="47"> <b>Huayue Chen</b>, Xueyi Wang, Lunjin Chen, Jiabei He, Zhiyang Xia, & Rui Chen (2026). <b>Chorus element repetition: Roles of energetic electron injection and nonlinear wave growth</b>. Geophysical Research Letters, 53, e2026GL125324. https://doi.org/10.1029/2026GL125324. <a href="pdfs/047.pdf" download>📄 PDF
 </a>
 <br> 
 <br> 
