@@ -13,7 +13,7 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
-      <li value="50"> R. Goyal & <b>Huayue Chen</b> (2026). <b>Pressure–inertia scaling in a reduced model of kinetic Alfvén waves: Applications to the radiation belts and magnetosheath</b>. Frontiers in Astronomy and Space Sciences, accepted.
+      <li value="50"> Ravinder Goyal & <b>Huayue Chen</b> (2026). <b>Pressure–inertia scaling in a reduced model of kinetic Alfvén waves: Applications to the radiation belts and magnetosheath</b>. Frontiers in Astronomy and Space Sciences, accepted.
 </a>
 <br> 
 <br>
