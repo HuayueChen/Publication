@@ -13,6 +13,10 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
+      <li value="50"> R. Goyal & <b>Huayue Chen</b> (2026). <b>Pressure–inertia scaling in a reduced model of kinetic Alfvén waves: Applications to the radiation belts and magnetosheath</b>. Frontiers in Astronomy and Space Sciences, accepted.
+</a>
+<br> 
+<br>
       <li value="49"> Xueyi Wang, <b>Huayue Chen</b>, Ying-Dong Jia, Lunjin Chen, Xiaohua Fang, Yingjuan Ma, Xiaolei Li, Han-Wen Shen, & Zhiyang Xia (2026). <b>3-D global hybrid modeling of the Martian plasma environment (GCPIC-M): Impact of IMF cone angle on ion escape</b>. Journal of Geophysical Research: Space Physics, 131, accepted.
 </a>
 <br> 
