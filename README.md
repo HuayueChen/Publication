@@ -17,7 +17,7 @@
 </a>
 <br> 
 <br>
-      <li value="49"> Xueyi Wang, <b>Huayue Chen</b>, Ying-Dong Jia, Lunjin Chen, Xiaohua Fang, Yingjuan Ma, Xiaolei Li, Han-Wen Shen, & Zhiyang Xia (2026). <b>3-D global hybrid modeling of the Martian plasma environment (GCPIC-M): Impact of IMF cone angle on ion escape</b>. Journal of Geophysical Research: Space Physics, 131, accepted.
+      <li value="49"> Xueyi Wang, <b>Huayue Chen</b>, Ying-Dong Jia, Lunjin Chen, Xiaohua Fang, Yingjuan Ma, Xiaolei Li, Han-Wen Shen, & Zhiyang Xia (2026). <b>3-D global hybrid modeling of the Martian plasma environment (GCPIC-M): Impact of IMF cone angle on ion escape</b>. Journal of Geophysical Research: Space Physics, 131, e2026JA035797. https://doi.org/10.1029/2026JA035797. 
 </a>
 <br> 
 <br>
