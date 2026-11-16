@@ -13,6 +13,10 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
+      <li value="51"> Shujie Gu, Lunjin Chen, <b>Huayue Chen</b>, Xueyi Wang, Xiangrong Fu, Xin An, Misa M. Cowee, Xu Liu, & Vania K. Jordanova (2026). <b>The saturation properties of broadband EMIC waves and the associated density oscillations</b>. Journal of Geophysical Research: Space Physics, accepted.
+</a>
+<br> 
+<br>
       <li value="50"> Ravinder Goyal & <b>Huayue Chen</b> (2026). <b>Pressure–inertia scaling in a reduced model of kinetic Alfvén waves: Applications to the radiation belts and magnetosheath</b>. Frontiers in Astronomy and Space Sciences, accepted.
 </a>
 <br> 
