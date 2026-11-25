@@ -13,7 +13,7 @@
 <br><br>
 <ol>
 <a id="y2026"></a>
-      <li value="51"> Shujie Gu, Lunjin Chen, <b>Huayue Chen</b>, Xueyi Wang, Xiangrong Fu, Xin An, Misa M. Cowee, Xu Liu, & Vania K. Jordanova (2026). <b>The saturation properties of broadband EMIC waves and the associated density oscillations</b>. Journal of Geophysical Research: Space Physics, accepted.
+      <li value="51"> Shujie Gu, Lunjin Chen, <b>Huayue Chen</b>, Xueyi Wang, Xiangrong Fu, Xin An, Misa M. Cowee, Xu Liu, & Vania K. Jordanova (2026). <b>The saturation properties of broadband EMIC waves and the associated density oscillations</b>. Journal of Geophysical Research: Space Physics, 131, e2026JA035755. https://doi.org/10.1029/2026JA035755. <a href="pdfs/051.pdf" download>📄 PDF
 </a>
 <br> 
 <br>
